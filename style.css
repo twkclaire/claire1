@@ -45,7 +45,10 @@ main {
   padding: 10px;
   border-radius: 5px;
 }
-
+a {
+  color: #333;
+  text-decoration: bold;
+}
 .more-links {
   background-color: #f4f4f4;
   padding: 20px;
