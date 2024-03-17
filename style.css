@@ -48,6 +48,7 @@ main {
 a {
   color: #333;
   text-decoration: bold;
+  cursor: wait;
 }
 .more-links {
   background-color: #f4f4f4;
