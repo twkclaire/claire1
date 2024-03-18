@@ -1,8 +1,8 @@
 function toggleAnswer(question) {
     var answer = question.querySelector('.answer');
     if (answer.style.display === 'block') {
-      answer.style.display = 'none'; // Hide answer if already visible
+      answer.style.display = 'none';
     } else {
-      answer.style.display = 'block'; // Show answer if hidden
+      answer.style.display = 'block'; 
     }
   }
